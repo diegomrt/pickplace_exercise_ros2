@@ -6,7 +6,7 @@ Requisitos: docker debe estar instalado en tu equipo Ubuntu (https://docs.docker
 - Herramienta terminal: pinza Robotiq 85
 - Mundo de Gazebo Classic: JdeRobot Robotics Academy (http://jderobot.github.io/RoboticsAcademy/exercises/IndustrialRobots/pick_place)
 
-![](media/video_pickplace_final_13.01.25_v1.1.webm)
+La imagen Docker se encuentra en https://hub.docker.com/repository/docker/diegomrt/pickplace_exercise_ros2
 
 ## Pasos para la ejecución del ejercicio en host Ubuntu (con gráfica Nvidia)
 ### Lanzamiento del ejercicio:
