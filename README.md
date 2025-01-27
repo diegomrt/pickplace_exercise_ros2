@@ -1,5 +1,8 @@
 
 # Ejercicio Pick and Place en ROS2 y MoveIt2 en Docker
+
+![Ejercicio pick and place en ROS2](media/pickplace_exercise.png)
+
 Requisitos: docker debe estar instalado en tu equipo Ubuntu (https://docs.docker.com/engine/install/ubuntu/)
 - Plataforma: ROS2 Humble con MoveIt2
 - Brazo robótico: UR5
